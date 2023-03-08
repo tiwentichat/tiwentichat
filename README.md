@@ -9,8 +9,9 @@ ChatGPT可以是你的工作助手，也可以是生活助手，还可以扮演�
 这里，有各种提问、安排任务的案例，也欢迎你来添加你的使用案例。
 
 
-可以通过提交 [PR](https://github.com/tiwentichat/tiwentichat/blob/main/CONTRIBUTING.md) 来一起建设这个案例库。
+可以通过提交 [PR](https://github.com/tiwentichat/tiwentichat/blob/main/README.md) 来一起建设这个案例库。
 
+也可以通过 [I-Robot.Life](https://i-robot.life) 探索更多AI工具。
 
 <!--rehype:style=padding-bottom: 23px;-->
 
