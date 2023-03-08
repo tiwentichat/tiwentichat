@@ -24,7 +24,7 @@ ChatGPT可以是你的工作助手，也可以是生活助手，还可以扮演�
 
 角色扮演类
 
-[IT人员角色扮演](#IT人员角色扮演)<!--rehype:style=background: rgb(214 66 146);-->  
+[IT人员角色扮演](#it人员角色扮演)<!--rehype:style=background: rgb(214 66 146);-->  
 [招聘求职角色扮演](#招聘求职角色扮演)<!--rehype:style=background: rgb(150 220 254);-->  
 [教师类角色扮演](#教师类角色扮演)<!--rehype:style=background: rgb(39 160 193);-->
 
